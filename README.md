@@ -9,7 +9,6 @@ With the DIP switches you can decide between BROSE / LAWO and set more parameter
 
 <ins>Hardware/PCB:</ins>
 - PCB + Circuit made with EAGLE 6.6.0
-- Keep in mind: There is a small layout mistake (see "layout mistake.pdf")! I can't change it because my EAGLE installation is broken.
 - Gerber Files are in "Gerber.zip"
 
 
